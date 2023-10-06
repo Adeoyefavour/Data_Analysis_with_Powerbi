@@ -1,4 +1,6 @@
 # Data_Analysis_with_Powerbi
+## About the project
+This repository contains a data cleaning project for a company dataset. The objective is to clean the dataset and prepare it for analysis
 I tracked the total sales made in the past 3years
 
 I tracked sales record of a startup to get the total revenue made 
