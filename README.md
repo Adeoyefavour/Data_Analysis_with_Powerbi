@@ -16,4 +16,5 @@ I created a connection between two tables
 
 ## Data visualization 
 
-![SALES DASHBOARD2](https://github.com/Adeoyefavour/Data_Analysis_with_Powerbi/assets/147132488/67cbc969-3739-4f83-9d5e-4e3c8df2e522)
+![final dashboard](https://github.com/Adeoyefavour/Data_Analysis_with_Powerbi/assets/147132488/3066ac86-c44a-44e9-a68f-e813aea33d8e)
+
